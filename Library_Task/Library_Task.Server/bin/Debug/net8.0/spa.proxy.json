@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "http://localhost:139",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\..\\library_task.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

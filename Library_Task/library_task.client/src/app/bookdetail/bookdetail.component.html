@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+</head>
+<body *ngIf="isLoggedIn">
+  <div>
+    <p>
+      <img src="{{book.bookImage}}" />
+    </p>
+    <p>
+      <button *ngIf="role == 'admin'" (click)="editBook($event)">Edit Book</button>
+      <button *ngIf="role == 'admin'" (click)="deleteBook($event)">Delete Book</button>
+      <button *ngIf="book.userId == '1'" (click)="takeBook($event)">Take Book</button>
+      <p *ngIf="book.userId != '1'"><em>Taken</em></p>
+    <p>
+      <label width="200">"{{book.title}}"</label>
+    </p>
+    <p>
+      <label width="200">By {{book.author.name}} {{book.author.surname}}</label>
+    </p>
+    <p>
+      <label width="200">Summary: "{{book.description}}"</label>
+    </p>
+    <p>
+      <label width="200">Genre - {{book.genre}}</label>
+    </p>
+    <p>
+      <label width="200">ISBN {{book.isbn}}</label>
+    </p>
+  </div>
+</body>
+</html>

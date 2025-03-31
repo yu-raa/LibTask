@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+  <div>
+    <form [formGroup]="signupForm">
+      <div>
+        <input formControlName="email" type="email" placeholder="Please enter email" />
+        <small *ngIf="!signupForm.controls['email'].touched || signupForm.controls['email'].value == ''" class="text-danger">Email is required</small>
+        <small *ngIf="signupForm.controls['email'].invalid && signupForm.controls['email'].touched" class="text-danger">Email is wrong</small>
+      </div>
+      <div>
+        <input formControlName="password" type="password" placeholder="Please enter password" />
+        <small *ngIf="!signupForm.controls['password'].touched || signupForm.controls['password'].value == ''" class="text-danger">Password is required</small>
+        <small *ngIf="signupForm.controls['password'].invalid && signupForm.controls['password'].touched" class="text-danger">Password is wrong</small>
+      </div>
+      <small id="alreadyReg"></small>
+      <input formControlName="isAdmin" type="checkbox" />
+      <button (click)="onSubmit()" type="submit">Sign Up</button>
+    </form>
+  </div>
+</body>
+</html>

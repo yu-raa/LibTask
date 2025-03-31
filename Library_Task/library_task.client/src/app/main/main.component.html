@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body *ngIf="isLoggedIn">
+  <div>
+    <div>
+      <input #inputt id="searchTerm" placeholder="search here" type="text" />
+      <button (click)="search($event)">Search</button>
+      <select #mysel1 (change)="search($event)" (focus)="setToNoSelect($event)">
+        <option *ngFor="let author of authors" id="{{author.id}}">{{author.name}} {{author.surname}}</option>
+        <option id="no1">No Author Filtering</option>
+      </select>
+      <select #mysel2 (change)="search($event)" (focus)="setToNoSelect($event)">
+        <option *ngFor="let genre of genres" id="{{genre}}">{{genre}}</option>
+        <option id="no2">No Genre Filtering</option>
+      </select>
+    </div>
+    <div>
+      <button (click)="seeMine($event)">Owned books</button>
+      <button *ngIf="page - 1 !== 0" (click)="decreasePage($event)">Prev</button>
+      <button *ngIf="page < amount/pageSize" (click)="increasePage($event)">Next</button>
+      <select id="pageS" (change)="reloadAmount($event)" (focus)="setToNoSelect($event)">
+        <option id="5">5</option>
+        <option id="10">10</option>
+        <option id="20">20</option>
+        <option id="50">50</option>
+      </select>
+    </div>
+    <div>
+      <button *ngIf="role == 'admin'" (click)="createNewBook($event)">Add Book</button>
+      <table height="500">
+        <tbody>
+          <tr *ngFor="let book of books">
+            <td width="100" *ngIf="book.userId != '1'">Taken</td>
+            <td width="100" *ngIf="book.userId == '1'"><button (click)="takeTheBook($event, book.id)">Take</button></td>
+            <td width="200" (click)="goToBook($event, book.id)"><img src="{{book.bookImage}}" width="200" height="100" /></td>
+            <td width="200">{{book.title}}</td>
+            <td width="200">{{book.author.name}} {{book.author.surname}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.client\\src\\app\\main\\main.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|solutionrelative:library_task\\library_task.client\\src\\app\\main\\main.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.client\\src\\app\\addbook\\addbook.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|solutionrelative:library_task\\library_task.client\\src\\app\\addbook\\addbook.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.client\\src\\app\\authors.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|solutionrelative:library_task\\library_task.client\\src\\app\\authors.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.client\\src\\app\\addauthor\\addauthor.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|solutionrelative:library_task\\library_task.client\\src\\app\\addauthor\\addauthor.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.client\\src\\app\\addauthor\\addauthor.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|solutionrelative:library_task\\library_task.client\\src\\app\\addauthor\\addauthor.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\usecases\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\usecases\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\entities\\dataitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\entities\\dataitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C278911A-50F8-4E64-B1A0-DAB037BFBDF7}|ServerUseCasesTests\\ServerTests.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\serverusecasestests\\unittestsforbookusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C278911A-50F8-4E64-B1A0-DAB037BFBDF7}|ServerUseCasesTests\\ServerTests.csproj|solutionrelative:serverusecasestests\\unittestsforbookusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\dto\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\dto\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.client\\src\\app\\data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|solutionrelative:library_task\\library_task.client\\src\\app\\data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.client\\src\\app\\books.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{429A1C30-957D-4FE0-BF96-0BE9EDF662FB}|Library_Task\\library_task.client\\library_task.client.esproj|solutionrelative:library_task\\library_task.client\\src\\app\\books.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\unitofwork\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\unitofwork\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\frameworks\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\frameworks\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C278911A-50F8-4E64-B1A0-DAB037BFBDF7}|ServerUseCasesTests\\ServerTests.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\serverusecasestests\\unittestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C278911A-50F8-4E64-B1A0-DAB037BFBDF7}|ServerUseCasesTests\\ServerTests.csproj|solutionrelative:serverusecasestests\\unittestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|c:\\users\\user\\source\\repos\\modsen_library_test_task\\library_task\\library_task.server\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E016FBA-1F1B-45A2-BA22-59C956BE99D1}|Library_Task\\Library_Task.Server\\Library_Task.Server.csproj|solutionrelative:library_task\\library_task.server\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 159,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.component.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\main\\main.component.ts",
+              "RelativeDocumentMoniker": "Library_Task\\library_task.client\\src\\app\\main\\main.component.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\main\\main.component.ts",
+              "RelativeToolTip": "Library_Task\\library_task.client\\src\\app\\main\\main.component.ts",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-31T21:31:26.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addbook.component.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\addbook\\addbook.component.ts",
+              "RelativeDocumentMoniker": "Library_Task\\library_task.client\\src\\app\\addbook\\addbook.component.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\addbook\\addbook.component.ts",
+              "RelativeToolTip": "Library_Task\\library_task.client\\src\\app\\addbook\\addbook.component.ts",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-31T21:30:34.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "authors.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\authors.ts",
+              "RelativeDocumentMoniker": "Library_Task\\library_task.client\\src\\app\\authors.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\authors.ts",
+              "RelativeToolTip": "Library_Task\\library_task.client\\src\\app\\authors.ts",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-31T20:50:38.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:34:13.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:34:13.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "addauthor.component.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\addauthor\\addauthor.component.ts",
+              "RelativeDocumentMoniker": "Library_Task\\library_task.client\\src\\app\\addauthor\\addauthor.component.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\addauthor\\addauthor.component.ts",
+              "RelativeToolTip": "Library_Task\\library_task.client\\src\\app\\addauthor\\addauthor.component.ts",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADAAAADTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-31T21:17:42.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "addauthor.component.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\addauthor\\addauthor.component.html",
+              "RelativeDocumentMoniker": "Library_Task\\library_task.client\\src\\app\\addauthor\\addauthor.component.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\addauthor\\addauthor.component.html",
+              "RelativeToolTip": "Library_Task\\library_task.client\\src\\app\\addauthor\\addauthor.component.html",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-31T21:16:22.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "data.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\data.ts",
+              "RelativeDocumentMoniker": "Library_Task\\library_task.client\\src\\app\\data.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\data.ts",
+              "RelativeToolTip": "Library_Task\\library_task.client\\src\\app\\data.ts",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-31T20:55:16.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "books.ts",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\books.ts",
+              "RelativeDocumentMoniker": "Library_Task\\library_task.client\\src\\app\\books.ts",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\src\\app\\books.ts",
+              "RelativeToolTip": "Library_Task\\library_task.client\\src\\app\\books.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-31T20:53:39.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:14:39.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\DTO\\Library.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\DTO\\Library.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\DTO\\Library.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\DTO\\Library.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:31:43.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataItems.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Entities\\DataItems.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\Entities\\DataItems.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Entities\\DataItems.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\Entities\\DataItems.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:27:33.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTestsForBookUseCases.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\ServerUseCasesTests\\UnitTestsForBookUseCases.cs",
+              "RelativeDocumentMoniker": "ServerUseCasesTests\\UnitTestsForBookUseCases.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\ServerUseCasesTests\\UnitTestsForBookUseCases.cs",
+              "RelativeToolTip": "ServerUseCasesTests\\UnitTestsForBookUseCases.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAwwLUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:19:59.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\UseCases\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\UseCases\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\UseCases\\LibraryService.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\UseCases\\LibraryService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAmwGsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:11:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\UnitOfWork\\Repository.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\UnitOfWork\\Repository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\UnitOfWork\\Repository.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\UnitOfWork\\Repository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:12:03.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Program.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:27:31.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Frameworks\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\Frameworks\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Frameworks\\LibraryContext.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\Frameworks\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:25:56.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAewDwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:19:13.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitTestRepo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\ServerUseCasesTests\\UnitTestRepo.cs",
+              "RelativeDocumentMoniker": "ServerUseCasesTests\\UnitTestRepo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\ServerUseCasesTests\\UnitTestRepo.cs",
+              "RelativeToolTip": "ServerUseCasesTests\\UnitTestRepo.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:37:22.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Mapping.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\Mapping.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\Mapping.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:10:08.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Library_Task\\Library_Task.Server\\DTO\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\Library_Task.Server\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "Library_Task\\Library_Task.Server\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:43:40.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

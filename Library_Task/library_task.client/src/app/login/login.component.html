@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+  <form [formGroup]="loginForm">
+    <div>
+      <input formControlName="email" type="email" placeholder="Please enter email" />
+      <small *ngIf="!loginForm.controls['email'].touched || loginForm.controls['email'].value == ''" class="text-danger">Email is required</small>
+      <small *ngIf="loginForm.controls['email'].invalid && loginForm.controls['email'].touched" class="text-danger">Email is wrong</small>
+    </div>
+    <div>
+      <input formControlName="password" type="password" placeholder="Please enter password" />
+      <small *ngIf="!loginForm.controls['password'].touched || loginForm.controls['password'].value == ''" class="text-danger">Password is required</small>
+      <small *ngIf="loginForm.controls['password'].invalid && loginForm.controls['password'].touched" class="text-danger">Password is wrong</small>
+    </div>
+    <button (click)="onSubmit()" type="submit">Log In</button>
+  </form>
+</body>
+</html>

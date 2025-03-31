@@ -1,0 +1,15 @@
+:host {
+    max-width: 1280px;
+    padding: 2rem;
+    text-align: center;
+    background: linear-gradient(to bottom, #e1bebe 50%, #b34040 60%) no-repeat
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+table {
+    margin: 0 auto;
+}

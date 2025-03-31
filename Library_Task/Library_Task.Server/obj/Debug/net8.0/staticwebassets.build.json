@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "HHE32YMa4puJVGlYXYGqaGEu665YavzoKFsT0Bt6n3Y=",
+  "Source": "Library_Task.Server",
+  "BasePath": "_content/Library_Task.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\User\\source\\repos\\Modsen_Library_Test_Task\\Library_Task\\library_task.client\\library_task.client.esproj",
+      "Version": 2,
+      "Source": "library_task.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

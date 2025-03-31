@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8" />
+  <title></title>
+</head>
+<body *ngIf="isLoggedIn">
+  <div>
+    <div>
+
+      <button *ngIf="page > 1" (click)="decreasePage($event)">Prev</button>
+      <button *ngIf="page < amount/pageSize" (click)="increasePage($event)">Next</button>
+      <select id="pageS" (change)="reloadAmount($event)" (focus)="setToNoSelect($event)">
+        <option id="5">5</option>
+        <option id="10">10</option>
+        <option id="20">20</option>
+        <option id="50">50</option>
+      </select>
+    </div>
+    <div *ngIf="isLoaded">
+      <table height="500">
+        <tbody>
+          <tr *ngFor="let book of books">
+            <td width="400" *ngIf="book.notif == true">Return the book!</td>
+            <td width="200" (click)="goToBook($event, book.id)"><img src="{{book.bookImage}}" width="200" height="100" /></td>
+            <td width="200">{{book.title}}</td>
+            <td width="200">{{book.author.name}} {{book.author.surname}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</body>
+</html>

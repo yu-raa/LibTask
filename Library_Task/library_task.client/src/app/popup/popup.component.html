@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+  <div><p>Are you sure you want to delete?</p></div>
+  <div mat-dialog-actions><button id="yesButton" mat-button mat-dialog-close="data.answerId" (click)="confirm($event)">YES</button><button id="cancelButton" mat-button mat-dialog-close="data.answerId" (click)="confirm($event)">CANCEL</button></div>
+</body>
+</html>

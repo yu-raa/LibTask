@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body *ngIf="isLoggedIn">
+  <div>
+    <label>Name</label>
+    <input id="name" />
+  </div>
+  <div>
+    <label>Surname</label>
+    <input id="surname" />
+  </div>
+  <div>
+    <label>Date Of Birth</label>
+    <label> as "yyyy-mm-ddThh:mm:ssZ" </label>
+    <input id="dob" placeholder="yyyy-mm-ddThh:mm:ssZ"/>
+  </div>
+  <div>
+    <label>Origin Country</label>
+    <input id="country" />
+  </div>
+  <button (click)="create($event)">Create</button>
+</body>
+</html>
