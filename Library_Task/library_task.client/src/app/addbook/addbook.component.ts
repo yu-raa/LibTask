@@ -79,7 +79,7 @@ export class AddBookComponent implements OnInit {
       let res = await this.bs.getBooks(this.ds.getData(), 2000000000, 1, null, null, null)
       count = Number.parseInt(res.key[res.key.length - 1].id) + 1
       let logindata = this.ds.getData() as RespClass
-      this.book = new Book((count).toString(), (document.getElementById('isbn') as HTMLInputElement).value as string, (document.getElementById('genre') as HTMLInputElement).value as string, (document.getElementById('title') as HTMLInputElement).value as string, (document.getElementById('descr') as HTMLInputElement).value as string, this.bookUrl, new Date(), new Date(), this.authors?.at(authorSelect.selectedIndex)?.id as string, '1')
+      this.book = new Book((count).toString(), (document.getElementById('isbn') as HTMLInputElement).value as string, (document.getElementById('genre') as HTMLInputElement).value as string, (document.getElementById('title') as HTMLInputElement).value as string, (document.getElementById('descr') as HTMLInputElement).value as string, this.bookUrl, new Date(), new Date(), this.authors?.at(authorSelect.selectedIndex)?.id as string, '-1')
       this.bs.addBook(this.book, this.ds.getData() as RespClass, this.pageSize, this.page)
       this.ds.savePicCache([this.book])
       this.rout.navigate([`main`], { queryParams: new PageQuery(1, 20) })
